@@ -11,7 +11,7 @@ These three principles are:
 
 **Experimentation** is also described as "launch and learn".  A Mimimum Viable Product is released and then iteratively developed with continuous feedback from users and other stakeholders. This approach aligns particularly well with Agile development practices.
 
-These three principles translate into five phases that result in an innovative and meaningful solution.  The five phases of Design Thinking are:
+These three principle translate into five phases that result in an innovative and meaningful solution.  The five phases of Design Thinking are:
 1. Empathize - the development of a deep empathetic understanding of user needs.
 2. Define - using the knowledge gathered in phase one to specifically define the underlying problem to be solved.
 3. Ideate - the generation of creative ideas to solve the problem defined in phase two and focused on meeting the needs of the user.
