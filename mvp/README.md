@@ -15,5 +15,5 @@ There are three factors to be considered when establishing the MVP:
 2. Viability - what is is the business case for the product?
 3. Feasibility - what is technically & financially feasible?
 
-In Design Thinking, uman-centered design begins with Desirability.  The convergence of user need,  business viability, and technical & financial feasibility outlines the solution.
+In Design Thinking, human-centered design begins with Desirability.  The convergence of user need,  business viability, and technical & financial feasibility outlines the solution.
 
