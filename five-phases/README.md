@@ -13,7 +13,7 @@ These three principles are:
 
 These three principle translate into five phases that result in an innovative and meaningful solution.  The five phases of Design Thinking are:
 1. Empathize - the development of a deep empathetic understanding of user needs.
-2. Define - using the knowledge gathered in phase one to specifically define the underlying problem to be solved.
+2. Define - using the knowledge gathered in phase one to specifically define the uniderlying problem to be solved.
 3. Ideate - the generation of creative ideas to solve the problem defined in phase two and focused on meeting the needs of the user.
 4. Prototype - the generation of multiple solutions, continuously improved through experimentation and iteration, guided by continuous feedback from the users.
 5. Test - the rigorous testing of the prototype, often resulting in the generation of required revisions to the product, based on the redefinition of the problem statement and greater understanding of the user need.
